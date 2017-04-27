@@ -1,6 +1,6 @@
 # npmdoc-ionic-native-transitions
 
-#### api documentation for  [ionic-native-transitions (v1.0.3)](https://github.com/shprink/ionic-native-transitions)  [![npm package](https://img.shields.io/npm/v/npmdoc-ionic-native-transitions.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ionic-native-transitions) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ionic-native-transitions.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ionic-native-transitions)
+#### basic api documentation for  [ionic-native-transitions (v1.0.3)](https://github.com/shprink/ionic-native-transitions)  [![npm package](https://img.shields.io/npm/v/npmdoc-ionic-native-transitions.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ionic-native-transitions) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ionic-native-transitions.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ionic-native-transitions)
 
 #### Native transitions for Ionic applications
 
@@ -102,7 +102,8 @@
         "start": "webpack-dev-server --port 8080 --json --progress",
         "watch": "webpack --watch --progress --colors --config webpack.config.dist.js -d"
     },
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "bin": {}
 }
 ```
 

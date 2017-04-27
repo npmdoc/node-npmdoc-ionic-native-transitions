@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### api documentation for  [ionic-native-transitions (v1.0.3)](https://github.com/shprink/ionic-native-transitions)  [![npm package](https://img.shields.io/npm/v/npmdoc-ionic-native-transitions.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ionic-native-transitions) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ionic-native-transitions.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ionic-native-transitions)",
+    "description": "#### basic api documentation for  [ionic-native-transitions (v1.0.3)](https://github.com/shprink/ionic-native-transitions)  [![npm package](https://img.shields.io/npm/v/npmdoc-ionic-native-transitions.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ionic-native-transitions) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ionic-native-transitions.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ionic-native-transitions)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "ionic-native-transitions": "*",
@@ -35,5 +35,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.2"
+    "version": "2017.4.27"
 }
